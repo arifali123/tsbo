@@ -1,7 +1,7 @@
 {
   "name": "tsbo",
   "version": "1.0.0",
-  "description": "",
+  "description": "My Personal Favorite TypeScript Boilerplates",
   "main": "dist/index.js",
   "bin": {
     "tsbo": "dist/index.js",
